@@ -40,7 +40,7 @@ I am currently learning Python with a focus on **Data Science** and improving my
 
 ## 🔗 Connect With Me
 
-* GitHub: (adiya2007-DS)
+* GitHub: (aditya2007-DS)
 
 ---
 
